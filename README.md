@@ -92,11 +92,6 @@ vanshikaraghav2005@gmail.com
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your portfolio here.
-
----
 
 ## 📌 Future Improvements
 
@@ -107,11 +102,3 @@ Add screenshots of your portfolio here.
 - Project Case Studies
 
 ---
-
-## ⭐ If you like this project
-
-Feel free to star the repository and connect with me.
-
----
-
-Made with ❤️ by Vanshika Raghav
