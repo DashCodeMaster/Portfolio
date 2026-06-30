@@ -2,12 +2,6 @@
 
 A modern and responsive personal portfolio website built to showcase my projects, skills, internships, certifications, and professional journey as a Computer Science Engineering student.
 
-## 🚀 Live Demo
-
-Add your deployed website link here:
-
-https://your-portfolio-link.vercel.app
-
 ---
 
 ## 👩‍💻 About Me
